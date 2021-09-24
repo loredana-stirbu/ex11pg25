@@ -136,6 +136,4 @@ for i in a:
                 nr+=1
         if nr<=4:
             o.append(i)
-if i<0:
-    print("Numerele ce nu sunt naturale nu au divizori")
 print(o)
